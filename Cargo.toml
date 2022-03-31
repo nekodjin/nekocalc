@@ -8,3 +8,6 @@ repository = "https://github.com/nekodjin/nekocalc"
 description = "A Calculator"
 
 [dependencies]
+logos = "0.12"
+ariadne = "0.1"
+chumsky = "0.8"
